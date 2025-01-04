@@ -30,8 +30,9 @@
 Here are some of my noteworthy projects:
 
 - **Study_Notion `dtech platform(#)**: The Study_Notion EdTech platform is an innovative app built using the MERN stack (MongoDB, Express, React, Node.js) to provide a seamless, interactive learning experience. It aims to make education more accessible and efficient through modern web technologies.
-- 
+  
 - **Expence tracker app(#)**: The Expence tracker website is an innovative app built using the MERN stack (MongoDB, Express, React, Node.js) to provide a seamless, interactive tracking own expences. It aims to track your expences more accessible and efficient through modern web technologies.
+  
 - **text editor(#)**: The Text Editor is a simple yet powerful application built using Java Core technology. It offers essential text editing features, providing a smooth and efficient user experience through Java's robust libraries and frameworks.
 - 
 ## 📈 GitHub Stats
@@ -47,5 +48,5 @@ Here are some of my noteworthy projects:
 ## 📬 Contact Me
 
 - **LinkedIn**: [Somnath Dwivedi](https://www.linkedin.com/in/somnath-dwivedi-489895298)
-- **Email**: [somnath@example.com](mailto:somnath@example.com)
+- **Email**: [dubeysn40@gmail.com](mailto:dubeysn40@gmail.com)
 
